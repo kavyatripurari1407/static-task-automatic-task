@@ -1,0 +1,1 @@
+# static-task-automatic-task
